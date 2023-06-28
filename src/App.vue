@@ -62,7 +62,9 @@ export default {
 </script>
 
 <style scoped>
+.abc{
 
+}
 .mt-3{
   max-width: 100%;
   max-height: 100%;
